@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Meu nome é Anthony Celso Petronilho de Souza, tenho 27 anos e estou em transição de carreira para a área de Desenvolvimento Web. Atualmente curso Análise e Desenvolvimento de Sistemas e estou finalizando um bootcamp em Desenvolvimento Web, onde venho consolidando conhecimentos em HTML, CSS, JavaScript, consumo de APIs e versionamento com Git.
+Meu nome é Anthony Celso Petronilho de Souza, tenho 27 anos e estou em transição de carreira para a área de Desenvolvimento Web. Atualmente curso Análise e Desenvolvimento de Sistemas e estou finalizando um bootcamp em Desenvolvimento Web.
 
 ---
 
